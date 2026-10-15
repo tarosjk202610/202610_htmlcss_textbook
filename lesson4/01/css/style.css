@@ -52,4 +52,8 @@ h2 {
     /* fld = flex-direction */
     flex-direction: column;
   }
+
+  .flex-item {
+    margin: 0 1em 1em;
+  }
 }
