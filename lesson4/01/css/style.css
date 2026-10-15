@@ -30,4 +30,8 @@ h2 {
 
 .flex-item {
   background: #09b;
+  color: #fff;
+  padding: 1em;
+  /* 幅30% */
+  flex-basis: 30%;
 }
