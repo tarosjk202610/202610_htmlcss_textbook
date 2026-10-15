@@ -5,3 +5,14 @@
   margin: 0;
   padding: 0;
 }
+
+section {
+  /* w90p */
+  width: 90%;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  /* m40-auto-0 */
+  margin: 40px auto 0;
+  border: 1px dashed #ccc;
+  text-align: center;
+}
