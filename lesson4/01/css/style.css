@@ -21,3 +21,7 @@ h2 {
   /* mb1em */
   margin-bottom: 1em;
 }
+
+.flex-container {
+  display: flex;
+}
