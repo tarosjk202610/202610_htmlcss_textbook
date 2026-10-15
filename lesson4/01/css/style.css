@@ -16,3 +16,8 @@ section {
   border: 1px dashed #ccc;
   text-align: center;
 }
+
+h2 {
+  /* mb1em */
+  margin-bottom: 1em;
+}
