@@ -27,3 +27,7 @@ h2 {
   /* 1:2:2:1の余白を設定する */
   justify-content: space-around;
 }
+
+.flex-item {
+  background: #09b;
+}
