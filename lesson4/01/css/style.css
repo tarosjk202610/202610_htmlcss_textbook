@@ -43,4 +43,13 @@ h2 {
   font-weight: bold;
 }
 
-@media screen and (max-width:768px) {}
+@media screen and (max-width:768px) {
+  h2 {
+    font-size: 1.1em;
+  }
+
+  .flex-container {
+    /* fld = flex-direction */
+    flex-direction: column;
+  }
+}
