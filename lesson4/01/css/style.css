@@ -24,5 +24,6 @@ h2 {
 
 .flex-container {
   display: flex;
+  /* 1:2:2:1の余白を設定する */
   justify-content: space-around;
 }
