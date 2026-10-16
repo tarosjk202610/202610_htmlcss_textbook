@@ -34,3 +34,8 @@
 .contain {
   background-size: contain;
 }
+
+/* position */
+section {
+  background: skyblue;
+}
