@@ -52,4 +52,5 @@ section img {
 .relative img {
   /* pos */
   position: relative;
+  top: 60px;
 }
