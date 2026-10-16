@@ -90,3 +90,8 @@ section img {
   background: #ccc;
   height: 100px;
 }
+
+.content {
+  /* df */
+  display: flex;
+}
