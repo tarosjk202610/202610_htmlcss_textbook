@@ -63,7 +63,13 @@ section img {
 }
 
 .absolute img {
+  /* poa */
   position: absolute;
   top: 60px;
   left: 100px;
+}
+
+.fixed img {
+  /* pof */
+  position: fixed;
 }
