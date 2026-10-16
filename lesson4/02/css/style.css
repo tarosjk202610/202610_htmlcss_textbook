@@ -57,6 +57,11 @@ section img {
   left: 100px;
 }
 
+.absolute {
+  /* position: absoluteをかけた要素の基準位置とする */
+  position: relative;
+}
+
 .absolute img {
   position: absolute;
   top: 60px;
