@@ -72,4 +72,7 @@ section img {
 .fixed img {
   /* pof */
   position: fixed;
+  /* ウィンドウの右から20px, 下から50px*/
+  right: 20px;
+  bottom: 50px;
 }
