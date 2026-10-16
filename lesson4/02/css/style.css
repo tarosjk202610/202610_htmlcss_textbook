@@ -85,3 +85,8 @@ section img {
   border: 2px solid orange;
   padding: 40px;
 }
+
+.header {
+  background: #ccc;
+  height: 100px;
+}
