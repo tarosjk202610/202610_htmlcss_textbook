@@ -26,3 +26,7 @@
   /* 100px 100px */
   background-size: auto 50%;
 }
+
+.cover {
+  background-size: cover;
+}
