@@ -45,4 +45,6 @@ section {
 section img {
   /* 親ボックスに対する比率 */
   width: 100%;
+  /* 初期値 */
+  height: auto;
 }
