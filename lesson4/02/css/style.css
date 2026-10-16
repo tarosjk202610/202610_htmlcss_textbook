@@ -48,3 +48,8 @@ section img {
   /* 初期値 */
   height: auto;
 }
+
+.relative img {
+  /* pos */
+  position: relative;
+}
