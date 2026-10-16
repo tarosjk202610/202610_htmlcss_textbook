@@ -75,6 +75,7 @@ section img {
   /* ウィンドウの右から20px, 下から50px*/
   right: 20px;
   bottom: 50px;
+  /* ウィンドウが基準になるので width: 100% だとウィンドウの幅と同じになってしまうので、あえてサイズ指定しています */
   width: 100px;
   height: 100px;
 }
