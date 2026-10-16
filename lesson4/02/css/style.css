@@ -2,5 +2,5 @@
 
 .bg-001 {
   /* 背景画像の基準点はCSSファイル */
-  background: url(../img/bg-stripe.png);
+  background: url(../img/bg-stripe.png) left center repeat;
 }
