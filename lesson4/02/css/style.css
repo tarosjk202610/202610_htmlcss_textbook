@@ -16,3 +16,8 @@
   width: 200px;
   height: 200px;
 }
+
+.px {
+  /* bgsz */
+  background-size: 150px 50px;
+}
