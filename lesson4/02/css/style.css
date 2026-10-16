@@ -1,1 +1,6 @@
 @charset 'utf-8';
+
+.bg-001 {
+  /* 背景画像の基準点はCSSファイル */
+  background: url();
+}
