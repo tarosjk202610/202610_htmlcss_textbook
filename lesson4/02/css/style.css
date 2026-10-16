@@ -6,6 +6,6 @@
 }
 
 .bg-002 {
-  background: #98807b url(../img/bg-cat.png);
+  background: #98807b url(../img/bg-cat.png) center bottom no-repeat;
   height: 350px;
 }
