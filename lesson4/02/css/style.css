@@ -75,4 +75,6 @@ section img {
   /* ウィンドウの右から20px, 下から50px*/
   right: 20px;
   bottom: 50px;
+  width: 100px;
+  height: 100px;
 }
