@@ -104,4 +104,5 @@ section img {
 
 .main {
   background: #eee;
+  flex-grow: 1;
 }
