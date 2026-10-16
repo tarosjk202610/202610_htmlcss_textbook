@@ -107,3 +107,8 @@ section img {
   /* 余白分伸ばす 1は伸ばす比率*/
   flex-grow: 1;
 }
+
+.footer {
+  background: #ccc;
+  height: 700px;
+}
