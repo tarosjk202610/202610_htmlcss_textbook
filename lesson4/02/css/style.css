@@ -19,5 +19,5 @@
 
 .px {
   /* bgsz */
-  background-size: 150px 50px;
+  background-size: 150px auto;
 }
