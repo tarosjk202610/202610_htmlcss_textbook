@@ -95,3 +95,8 @@ section img {
   /* df */
   display: flex;
 }
+
+.sticky {
+  background: yellow;
+  height: 200px;
+}
