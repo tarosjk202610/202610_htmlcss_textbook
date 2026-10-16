@@ -99,4 +99,5 @@ section img {
 .sticky {
   background: yellow;
   height: 200px;
+  flex-basis: 30%;
 }
