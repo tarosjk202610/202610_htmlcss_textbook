@@ -12,4 +12,5 @@
 
 .bg-size {
   background: url(../img/bg-cat-light.png) right bottom no-repeat;
+  border: 1px solid #ccc;
 }
