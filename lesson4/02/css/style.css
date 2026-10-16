@@ -9,3 +9,7 @@
   background: #98807b url(../img/bg-cat.png) center bottom no-repeat;
   height: 350px;
 }
+
+.bg-size {
+  background: url(../img/bg-cat-light.png) right bottom no-repeat;
+}
