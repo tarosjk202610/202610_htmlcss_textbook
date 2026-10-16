@@ -104,5 +104,6 @@ section img {
 
 .main {
   background: #eee;
+  /* 余白分伸ばす 1は伸ばす比率*/
   flex-grow: 1;
 }
