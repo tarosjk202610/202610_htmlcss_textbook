@@ -59,4 +59,6 @@ section img {
 
 .absolute img {
   position: absolute;
+  top: 60px;
+  left: 100px;
 }
