@@ -21,3 +21,8 @@
   /* bgsz */
   background-size: 150px auto;
 }
+
+.per {
+  /* 100px 100px */
+  background-size: 50% 50%;
+}
