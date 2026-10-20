@@ -1,5 +1,6 @@
 @charset 'utf-8';
 
 .bg-hero {
-  background: url(../img/bg-hero-sp.jpg) no-repeat center bottom;
+  background: url(../img/bg-hero-sp.jpg) no-repeat center bottom / cover;
+  /* background-size: cover; */
 }
