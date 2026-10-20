@@ -40,4 +40,12 @@
   .bg-info {
     padding: 10% 18%;
   }
+
+  .bg-hero h1 {
+    font-size: 1.875rem;
+  }
+
+  .bg-hero p {
+    font-size: 1rem;
+  }
 }
