@@ -4,4 +4,6 @@
   background: #1b9aaa;
 }
 
-.gnav-inner {}
+.gnav-inner {
+  margin-inline: auto;
+}
