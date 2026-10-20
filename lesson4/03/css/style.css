@@ -55,4 +55,12 @@
   .bg-hero {
     position: relative;
   }
+
+  .bg-info {
+    padding: 0;
+    width: 40%;
+    position: absolute;
+    top: 20%;
+    left: 120px;
+  }
 }
