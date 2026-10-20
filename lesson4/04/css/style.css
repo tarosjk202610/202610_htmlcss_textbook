@@ -23,4 +23,5 @@
   text-align: center;
   background: #1b9aaa;
   padding: 0;
+  display: flex;
 }
