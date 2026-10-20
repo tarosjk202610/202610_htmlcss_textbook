@@ -24,4 +24,6 @@
   background: #1b9aaa;
   padding: 0;
   display: flex;
+  /* フレックスアイテム間の余白 */
+  gap: 2em;
 }
