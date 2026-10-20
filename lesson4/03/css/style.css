@@ -13,3 +13,8 @@
   /* vh: Viewport Height(ビューポートの高さ) */
   height: 80vh;
 }
+
+.bg-info {
+  padding: 20% 7% 0;
+  color: #fff;
+}
