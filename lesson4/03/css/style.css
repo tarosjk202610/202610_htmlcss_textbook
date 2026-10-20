@@ -3,4 +3,6 @@
 .bg-hero {
   background: url(../img/bg-hero-sp.jpg) no-repeat center bottom / cover;
   /* background-size: cover; */
+  /* vh: Viewport Height(ビューポートの高さ) */
+  height: 80vh;
 }
