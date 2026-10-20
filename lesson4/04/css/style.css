@@ -35,3 +35,9 @@ liのdisplayはlist-itemがデフォルト
 .gnav-list li {
   display: block;
 }
+
+/* spanはインライン要素 */
+.gnav-list li span {
+  font-size: 12px;
+  display: block;
+}
