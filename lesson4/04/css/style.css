@@ -27,3 +27,9 @@
   /* フレックスアイテム間の余白 */
   gap: 2em;
 }
+
+/* 教科書には無い指定 */
+
+.gnav-list li {
+  display: block;
+}
