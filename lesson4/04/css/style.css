@@ -38,6 +38,7 @@ liのdisplayはlist-itemがデフォルト
 
 .gnav-list li a {
   background: orange;
+  display: block;
 }
 
 /* spanはインライン要素 */
