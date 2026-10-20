@@ -32,3 +32,8 @@
 }
 
 /* タブレット 600px~ */
+@media screen and (min-width: 600px) {
+  .bg-hero {
+    background-image: url(../img/bg-hero-pc.jpg);
+  }
+}
