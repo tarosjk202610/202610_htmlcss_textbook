@@ -1,6 +1,6 @@
 @charset 'utf-8';
 
-/* 全ての要素に対する指定 */
+/* 全称セレクタ 全ての要素に対する指定 */
 * {
   box-sizing: border-box;
   margin: 0;
