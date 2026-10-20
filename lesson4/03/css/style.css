@@ -36,4 +36,8 @@
   .bg-hero {
     background-image: url(../img/bg-hero-pc.jpg);
   }
+
+  .bg-info {
+    padding: 10% 18%;
+  }
 }
