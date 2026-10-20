@@ -66,5 +66,7 @@
 
   .bg-hero h1 {
     text-align: left;
+    /* 上記と同じ意味 */
+    text-align: start;
   }
 }
