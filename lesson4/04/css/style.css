@@ -28,8 +28,10 @@
   gap: 2em;
 }
 
-/* 教科書には無い指定 */
-
+/* 教科書には無い指定
+リストマーカー（黒丸）を削除する
+liのdisplayはlist-itemがデフォルト
+*/
 .gnav-list li {
   display: block;
 }
