@@ -18,3 +18,9 @@
   padding: 20% 7% 0;
   color: #fff;
 }
+
+.bg-hero h1 {
+  text-align: center;
+  /* mb.75e */
+  margin-bottom: 0.75em;
+}
