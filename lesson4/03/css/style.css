@@ -51,4 +51,8 @@
 }
 
 /* デスクトップ 960px~ */
-@media screen and (min-width: 960px) {}
+@media screen and (min-width: 960px) {
+  .bg-hero {
+    position: relative;
+  }
+}
