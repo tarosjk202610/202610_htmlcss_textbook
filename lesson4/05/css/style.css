@@ -84,6 +84,12 @@ liのdisplayはlist-itemがデフォルト
     position: relative;
   }
 
+  .gnav-button span {
+    font-weight: bold;
+    color: #fff;
+    width: 60px;
+  }
+
   .gnav-list {
     position: fixed;
     padding-top: 10vh;
