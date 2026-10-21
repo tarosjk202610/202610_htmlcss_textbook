@@ -79,6 +79,7 @@ liのdisplayはlist-itemがデフォルト
     height: 50px;
     width: 60px;
     background-color: transparent;
+    border: none;
   }
 
   .gnav-list {
