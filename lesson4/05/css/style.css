@@ -94,4 +94,8 @@ liのdisplayはlist-itemがデフォルト
   .gnav.is-open {
     background: orange;
   }
+
+  .is-open .gnav-list {
+    left: 0;
+  }
 }
