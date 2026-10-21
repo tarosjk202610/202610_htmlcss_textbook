@@ -69,4 +69,8 @@ liのdisplayはlist-itemがデフォルト
     /* pointerは👆 */
     cursor: pointer;
   }
+
+  .gnav-list {
+    position: fixed;
+  }
 }
