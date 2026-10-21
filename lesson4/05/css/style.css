@@ -72,5 +72,6 @@ liのdisplayはlist-itemがデフォルト
 
   .gnav-list {
     position: fixed;
+    padding-top: 10vh;
   }
 }
