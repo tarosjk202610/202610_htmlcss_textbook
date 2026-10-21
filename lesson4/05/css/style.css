@@ -78,7 +78,8 @@ liのdisplayはlist-itemがデフォルト
 
     height: 50px;
     width: 60px;
-    background-color: transparent;
+    /* TODO: 後でtransparentに戻す */
+    background-color: orange;
     border: none;
   }
 
