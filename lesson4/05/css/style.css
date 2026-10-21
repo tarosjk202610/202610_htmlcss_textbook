@@ -22,6 +22,8 @@
 .gnav {
   display: flex;
   justify-content: space-between;
+  flex-basis: 100%;
+  /* width: 100% でもOK */
 }
 
 .gnav-logo {
