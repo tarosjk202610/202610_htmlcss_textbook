@@ -94,6 +94,12 @@ liのdisplayはlist-itemがデフォルト
     transform: translateX(-50%);
   }
 
+  .gnav-button::before,
+  .gnav-button::after,
+  .gnav-button span::before {
+    content: '';
+  }
+
   .gnav-list {
     position: fixed;
     padding-top: 10vh;
