@@ -63,4 +63,8 @@ liのdisplayはlist-itemがデフォルト
 }
 
 /* タブレット、スマホ */
-@media screen and (max-width: 800px) {}
+@media screen and (max-width: 800px) {
+  .gnav-button {
+    display: block;
+  }
+}
