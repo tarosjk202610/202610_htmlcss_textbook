@@ -75,6 +75,10 @@ liのdisplayはlist-itemがデフォルト
     display: block;
     /* pointerは👆 */
     cursor: pointer;
+
+    height: 50px;
+    width: 60px;
+    background-color: transparent;
   }
 
   .gnav-list {
@@ -98,4 +102,6 @@ liのdisplayはlist-itemがデフォルト
   .is-open .gnav-list {
     left: 0;
   }
+
+  .is-open .gnav-button {}
 }
