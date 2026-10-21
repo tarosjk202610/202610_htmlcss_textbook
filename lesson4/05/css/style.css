@@ -66,5 +66,7 @@ liのdisplayはlist-itemがデフォルト
 @media screen and (max-width: 800px) {
   .gnav-button {
     display: block;
+    /* pointerは👆 */
+    cursor: pointer;
   }
 }
