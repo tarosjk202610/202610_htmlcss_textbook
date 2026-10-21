@@ -1,5 +1,11 @@
 @charset 'utf-8';
 
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 .gnav-wrap {
   background: #1b9aaa;
 }
