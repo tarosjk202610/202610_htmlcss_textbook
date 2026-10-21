@@ -100,6 +100,12 @@ liのdisplayはlist-itemがデフォルト
     content: '';
     display: block;
     position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 28px;
+    height: 2px;
+    background-color: #fff;
+    transition: all 0.3s;
   }
 
   .gnav-list {
