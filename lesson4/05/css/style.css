@@ -99,6 +99,7 @@ liのdisplayはlist-itemがデフォルト
   .gnav-button span::before {
     content: '';
     display: block;
+    position: absolute;
   }
 
   .gnav-list {
