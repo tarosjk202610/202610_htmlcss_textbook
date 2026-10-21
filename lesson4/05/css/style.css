@@ -88,6 +88,8 @@ liのdisplayはlist-itemがデフォルト
     font-weight: bold;
     color: #fff;
     width: 60px;
+    position: absolute;
+    top: 30px;
   }
 
   .gnav-list {
