@@ -1,0 +1,59 @@
+@charset 'utf-8';
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.gnav-wrap {
+  background: #1b9aaa;
+}
+
+.gnav-inner {
+  margin-inline: auto;
+  padding: 0.5em 1.5em;
+  max-width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.gnav-logo {
+  font-size: 2em;
+  font-weight: bold;
+  color: #fff;
+}
+
+.gnav-list {
+  text-align: center;
+  background: #1b9aaa;
+  padding: 0;
+  display: flex;
+  /* フレックスアイテム間の余白 */
+  gap: 2em;
+}
+
+/* 教科書には無い指定
+リストマーカー（黒丸）を削除する
+liのdisplayはlist-itemがデフォルト
+*/
+.gnav-list li {
+  display: block;
+  /* list-style-type: none;でもOK */
+
+}
+
+.gnav-list li a {
+  display: block;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* spanはインライン要素 */
+.gnav-list li span {
+  font-size: 12px;
+  display: block;
+}
