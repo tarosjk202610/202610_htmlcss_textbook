@@ -40,6 +40,9 @@ liのdisplayはlist-itemがデフォルト
 .gnav-list li a {
   background: orange;
   display: block;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
 }
 
 /* spanはインライン要素 */
