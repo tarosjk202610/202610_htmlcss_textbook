@@ -78,5 +78,6 @@ liのdisplayはlist-itemがデフォルト
     left: 0;
     z-index: 100;
     width: 100%;
+    max-width: 240px;
   }
 }
