@@ -61,3 +61,6 @@ liのdisplayはlist-itemがデフォルト
   font-size: 12px;
   display: block;
 }
+
+/* タブレット、スマホ */
+@media screen and (max-width: 800px) {}
