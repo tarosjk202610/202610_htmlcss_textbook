@@ -112,6 +112,10 @@ liのdisplayはlist-itemがデフォルト
     top: 8px;
   }
 
+  .gnav-button::after {
+    top: 24px;
+  }
+
   .gnav-list {
     position: fixed;
     padding-top: 10vh;
