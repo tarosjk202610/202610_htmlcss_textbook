@@ -35,6 +35,7 @@ liのdisplayはlist-itemがデフォルト
 .gnav-list li {
   display: block;
   /* list-style-type: none;でもOK */
+  color: #fff;
 }
 
 .gnav-list li a {
@@ -42,7 +43,7 @@ liのdisplayはlist-itemがデフォルト
   display: block;
   font-size: 16px;
   font-weight: bold;
-  /* color: #fff; */
+
 }
 
 /* spanはインライン要素 */
