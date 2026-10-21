@@ -81,8 +81,7 @@ liのdisplayはlist-itemがデフォルト
     position: fixed;
     padding-top: 10vh;
     top: 0;
-    /* TODO: 後で-100%に戻す */
-    left: 0;
+    left: -100%;
     z-index: 100;
     width: 100%;
     max-width: 240px;
