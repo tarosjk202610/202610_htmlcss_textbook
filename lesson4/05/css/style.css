@@ -90,4 +90,7 @@ liのdisplayはlist-itemがデフォルト
     flex-direction: column;
     transition: 0.3s;
   }
+
+  /* クラス属性値に gnav と is-open を持つ場合 */
+  .gnav.is-open {}
 }
