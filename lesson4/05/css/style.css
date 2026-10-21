@@ -90,6 +90,7 @@ liのdisplayはlist-itemがデフォルト
     width: 60px;
     position: absolute;
     top: 30px;
+    left: 50%;
   }
 
   .gnav-list {
