@@ -81,6 +81,7 @@ liのdisplayはlist-itemがデフォルト
     /* TODO: 後でtransparentに戻す */
     background-color: orange;
     border: none;
+    position: relative;
   }
 
   .gnav-list {
