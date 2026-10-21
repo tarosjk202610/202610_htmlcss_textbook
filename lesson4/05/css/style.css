@@ -116,6 +116,10 @@ liのdisplayはlist-itemがデフォルト
     top: 24px;
   }
 
+  .gnav-button span::before {
+    top: -14px;
+  }
+
   .gnav-list {
     position: fixed;
     padding-top: 10vh;
