@@ -142,5 +142,8 @@ liのdisplayはlist-itemがデフォルト
     left: 0;
   }
 
-
+  .is-open .gnav-button::before {
+    /* degree 角度 */
+    transform: rotate(45deg);
+  }
 }
