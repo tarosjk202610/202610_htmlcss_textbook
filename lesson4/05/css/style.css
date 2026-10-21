@@ -91,9 +91,9 @@ liのdisplayはlist-itemがデフォルト
   }
 
   /* クラス属性値に gnav と is-open を持つ場合 */
-  .gnav.is-open {
+  /* .gnav.is-open {
     background: orange;
-  }
+  } */
 
   .is-open .gnav-list {
     left: 0;
