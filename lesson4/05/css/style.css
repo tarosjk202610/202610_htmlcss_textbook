@@ -77,5 +77,6 @@ liのdisplayはlist-itemがデフォルト
     /* TODO: 後で-100%に戻す */
     left: 0;
     z-index: 100;
+    width: 100%;
   }
 }
