@@ -22,3 +22,7 @@ p {
 p {
   margin-inline: auto;
 }
+
+span {
+  text-align: center;
+}
