@@ -41,3 +41,7 @@ address {
   /* list-style-type: none; */
   list-style: none;
 }
+
+.footer-inner nav ul li {
+  display: inline-block;
+}
