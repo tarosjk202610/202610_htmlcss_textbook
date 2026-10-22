@@ -54,4 +54,8 @@ a {
   color: #b48456;
 }
 
-@media screen and (min-width:960px) {}
+@media screen and (min-width:960px) {
+  a:hover {
+    text-decoration: underline;
+  }
+}
