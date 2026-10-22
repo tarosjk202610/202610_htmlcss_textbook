@@ -148,4 +148,11 @@ liのdisplayはlist-itemがデフォルト
     top: 16px;
     left: 16px;
   }
+
+  .is-open .gnav-button::after {
+    /* degree 角度 */
+    transform: rotate(-45deg);
+    top: 16px;
+    left: 16px;
+  }
 }
