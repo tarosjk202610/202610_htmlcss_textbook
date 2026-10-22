@@ -13,3 +13,10 @@ footer {
   text-align: center;
   color: #504543;
 }
+
+.footer-inner {
+  width: 1000px;
+  background: #fff;
+  margin-inline: auto;
+  padding: 60px;
+}
