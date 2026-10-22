@@ -54,3 +54,4 @@ a {
   color: #b48456;
 }
 
+@media screen and (min-width:960px) {}
