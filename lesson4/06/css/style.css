@@ -40,9 +40,9 @@ address {
 .footer-inner nav ul {
   /* list-style-type: none; */
   list-style: none;
-  display: flex;
+  /* display: flex; */
 }
 
 .footer-inner nav ul li {
-  /* display: inline-block; */
+  display: inline-block;
 }
