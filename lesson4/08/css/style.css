@@ -33,3 +33,8 @@ span {
   align-items: center;
   justify-content: center;
 }
+
+.position {
+  position: relative;
+  height: 300px;
+}
