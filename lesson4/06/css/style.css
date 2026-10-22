@@ -46,3 +46,10 @@ address {
 .footer-inner nav ul li {
   display: inline-block;
 }
+
+a {
+  display: inline-block;
+  padding: 0.5em;
+  text-decoration: none;
+  color: #b48456;
+}
