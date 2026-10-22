@@ -8,4 +8,6 @@ td {
 
 table {
   border-spacing: 0;
+  /* border-collapse: separate;(初期値) */
+  border-collapse: collapse;
 }
