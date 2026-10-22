@@ -19,10 +19,6 @@ p {
   color: #ef476f;
 }
 
-p {
-  margin-inline: auto;
-}
-
-p {
-  text-align: center;
+span {
+  font-size: 20px;
 }
