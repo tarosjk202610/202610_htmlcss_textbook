@@ -24,3 +24,9 @@ footer {
 img {
   margin-bottom: 20px;
 }
+
+address {
+  margin-bottom: 20px;
+  font-style: normal;
+  font-size: 14px;
+}
