@@ -22,3 +22,8 @@ p {
 span {
   font-size: 20px;
 }
+
+img,
+span {
+  vertical-align: middle;
+}
