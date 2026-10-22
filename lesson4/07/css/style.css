@@ -11,3 +11,10 @@ div {
   padding: 1em;
   background: #eee;
 }
+
+p {
+  width: 200px;
+  height: 200px;
+  background: #00c;
+  color: #fff;
+}
