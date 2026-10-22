@@ -78,8 +78,7 @@ liのdisplayはlist-itemがデフォルト
 
     height: 50px;
     width: 60px;
-    /* TODO: 後でtransparentに戻す */
-    background-color: orange;
+    background-color: transparent;
     border: none;
     position: relative;
   }
@@ -158,5 +157,6 @@ liのdisplayはlist-itemがデフォルト
 
   .is-open .gnav-button span::before {
     background-color: transparent;
+    /* rgba(0,0,0,0) */
   }
 }
