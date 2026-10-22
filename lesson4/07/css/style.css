@@ -18,3 +18,7 @@ p {
   background: #00c;
   color: #fff;
 }
+
+p {
+  margin-inline: auto;
+}
