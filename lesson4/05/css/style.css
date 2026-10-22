@@ -155,4 +155,8 @@ liのdisplayはlist-itemがデフォルト
     top: 16px;
     left: 16px;
   }
+
+  .is-open .gnav-button span::before {
+    background-color: transparent;
+  }
 }
