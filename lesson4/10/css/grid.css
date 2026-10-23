@@ -90,4 +90,6 @@
   height: 300px;
   /* 横軸 stretch / start / end / center */
   justify-items: center;
+  /* 縦軸 stretch / start / end / center */
+  align-items: center;
 }
