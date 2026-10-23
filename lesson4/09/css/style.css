@@ -11,3 +11,13 @@ table {
   /* border-collapse: separate;(初期値) */
   border-collapse: collapse;
 }
+
+.col-1 {
+  width: 20%;
+}
+.col-2 {
+  width: 40%;
+}
+.col-3 {
+  width: 40%;
+}
