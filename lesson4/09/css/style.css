@@ -35,3 +35,7 @@ th {
   background: #a50;
   color: #fff;
 }
+
+tr:first-child {
+  height: 100px;
+}
