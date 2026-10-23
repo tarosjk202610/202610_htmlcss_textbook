@@ -23,3 +23,9 @@
 }
 
 /* セルをまたぐ配置 */
+.grid-span {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(3, auto);
+  gap: 15px;
+}
