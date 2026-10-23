@@ -30,3 +30,8 @@ table caption {
 .col-3 {
   width: 40%;
 }
+
+th {
+  background: #a50;
+  color: #fff;
+}
