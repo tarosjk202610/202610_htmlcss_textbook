@@ -28,3 +28,10 @@ img {
   grid-template-rows: 240px 240px;
   gap: 20px;
 }
+
+@media screen and (max-width:999px) {
+  .container {
+    width: 320px;
+    grid-template-columns: repeat(2, 155px);
+  }
+}
