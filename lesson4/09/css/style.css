@@ -14,6 +14,13 @@ table {
   width: 100%;
 }
 
+table caption {
+  font-size: 0.8em;
+  color: #666;
+  /* キャプションの位置 top / bottom */
+  caption-side: bottom;
+}
+
 .col-1 {
   width: 20%;
 }
