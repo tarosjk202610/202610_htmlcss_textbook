@@ -23,5 +23,6 @@ img {
 
 .container {
   display: grid;
+  /* 明示的なカラム */
   grid-template-columns: 320px 320px 320px;
 }
