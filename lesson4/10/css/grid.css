@@ -18,5 +18,5 @@
 /* 画面幅に応じて列数が変わる */
 .grid-auto {
   display: grid;
-  grid-template-columns: repeat(auto-fit);
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
 }
