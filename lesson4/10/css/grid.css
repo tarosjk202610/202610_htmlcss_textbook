@@ -58,4 +58,11 @@
   display: grid;
   grid-template-columns: 160px 1fr 160px;
   grid-template-rows: repeat(3, auto);
+  gap: 15px;
+  /* セルに名前をつける */
+  grid-template-areas: 
+    "header header header"
+    ""
+    ""
+  ;
 }
