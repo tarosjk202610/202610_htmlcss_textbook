@@ -33,5 +33,6 @@ img {
   .container {
     width: 320px;
     grid-template-columns: repeat(2, 155px);
+    grid-template-rows: repeat(3, 116px);
   }
 }
