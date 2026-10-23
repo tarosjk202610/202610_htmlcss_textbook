@@ -10,6 +10,7 @@ table {
   border-spacing: 0;
   /* border-collapse: separate;(初期値) */
   border-collapse: collapse;
+  width: 100%;
 }
 
 .col-1 {
