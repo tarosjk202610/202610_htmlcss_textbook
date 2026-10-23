@@ -8,4 +8,7 @@
 
 .box {
   background: #dbeafe;
+  border: 2px solid #3b82f6;
+  /* 角丸 */
+  border-radius: 6px;
 }
