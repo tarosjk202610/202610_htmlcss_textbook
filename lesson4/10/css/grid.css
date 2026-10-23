@@ -29,3 +29,7 @@
   grid-template-rows: repeat(3, 80px);
   gap: 15px;
 }
+
+.grid-span .box:first-of-type {
+  grid-column: 1 / 3;
+}
