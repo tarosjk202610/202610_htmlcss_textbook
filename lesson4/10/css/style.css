@@ -13,4 +13,10 @@ ul {
 img {
   /* 画像の下の余白を削除するため */
   display: block;
+  max-width: 100%;
+}
+
+.container {
+  width: 1000px;
+  margin: 20px auto;
 }
