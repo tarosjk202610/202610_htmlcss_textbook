@@ -82,3 +82,10 @@
 .area-footer {
   grid-area: footer;
 }
+
+/* CSS Gridでの中央寄せ */
+.grid-items {
+  display: grid;
+  background-color: #eee;
+  height: 300px;
+}
