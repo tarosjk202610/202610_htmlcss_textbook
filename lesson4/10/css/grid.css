@@ -70,3 +70,15 @@
 .area-header {
   grid-area: header;
 }
+.area-navi {
+  grid-area: navi;
+}
+.area-contents {
+  grid-area: contents;
+}
+.area-sidebar {
+  grid-area: sidebar;
+}
+.area-footer {
+  grid-area: footer;
+}
