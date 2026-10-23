@@ -62,7 +62,11 @@
   /* セルに名前をつける */
   grid-template-areas: 
     "header header header"
-    ""
-    ""
+    "navi contents sidebar"
+    "footer footer footer"
   ;
+}
+
+.area-header {
+  grid-area: header;
 }
