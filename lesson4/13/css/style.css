@@ -69,3 +69,7 @@ textarea {
     margin: 0;
   }
 }
+
+dt,dd,select,input,textarea {
+  color: #666;
+}
