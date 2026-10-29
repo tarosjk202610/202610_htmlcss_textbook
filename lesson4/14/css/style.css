@@ -42,7 +42,7 @@ div {
 }
 
 .sample1 {
-  animation: zigzag 2s ease 0s 3 normal;
+  animation: zigzag 2s ease 0s 3 normal both;
   /* 
   animation-name: zigzag; アニメーション名
   animation-duration: 2s; 時間
@@ -50,6 +50,7 @@ div {
   animation-delay: 0s; 遅延時間
   animation-iteration-count: 3; 繰り返し回数
   animation-direction: normal; 再生方法
+  animation-fill-mode: both; アニメーション開始前、終了後のスタイルの適用
   */
 }
 
