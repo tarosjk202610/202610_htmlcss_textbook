@@ -5,4 +5,12 @@ div {
   height: 100px;
   padding: 1em;
   margin: 2em 2em 4em;
+  background: #ad4444;
+  color: #fff;
+  font-size: 14px;
+}
+
+.width {
+  /* trs 0.5s === 500ms*/
+  transition: width 0.5s ease-out;
 }
