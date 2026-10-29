@@ -3,3 +3,10 @@
 body {
   background: #eee;
 }
+
+h1 {
+  font-size: 1.5em;
+  color: #1b9aaa;
+  text-align: center;
+  margin: 40px 0 20px;
+}
