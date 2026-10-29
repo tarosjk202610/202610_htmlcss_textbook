@@ -75,5 +75,8 @@ div {
     background: #3946ad;
     transform: scale(1.5);
   }
-
+  100% {
+    background: #4dad48;
+    transform: scale(1);
+  }
 }
