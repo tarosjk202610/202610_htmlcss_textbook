@@ -13,7 +13,7 @@ div {
 .width {
   /* trs 0.5s === 500ms*/
   transition: width 0.5s ease-out 0s;
-  transition: width 0.5s cubic-bezier(.33,1.38,.89,-0.58) 0s;
+  transition: width 0.5s cubic-bezier(.1,1.38,.48,1.41) 0s;
 }
 .width:hover {
   /* transition: width 2s ease-out 0s; */
