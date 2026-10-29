@@ -101,5 +101,10 @@ input[type="radio"] {
   width: 16px;
   height: 16px;
   margin-right: 4px;
+  /* ラジオボタンを選択した時の色 */
   accent-color: #1b9aaa;
+}
+
+textarea {
+  min-height: 100px;
 }
