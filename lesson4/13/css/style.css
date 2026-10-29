@@ -18,3 +18,8 @@ form {
   background: #fff;
   padding: 40px 0;
 }
+
+dl {
+  margin: 0 auto;
+  width: 500px;
+}
