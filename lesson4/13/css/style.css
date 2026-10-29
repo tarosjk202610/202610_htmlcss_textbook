@@ -111,4 +111,10 @@ textarea {
 
 input[type="submit"] {
   background: #1b9aaa;
+  width: 200px;
+  padding: 0.5em;
+  color: #fff;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
 }
