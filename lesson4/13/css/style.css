@@ -10,3 +10,11 @@ h1 {
   text-align: center;
   margin: 40px 0 20px;
 }
+
+form {
+  width: 90%;
+  max-width: 800px;
+  margin: 0 auto 40px;
+  background: #fff;
+  padding: 40px 0;
+}
