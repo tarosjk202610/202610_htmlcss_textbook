@@ -40,3 +40,15 @@ div {
   /* 倍率を指定する scale(X, Y) */
   transform: scale(1.5);
 }
+
+@keyframes zigzag {
+  0% {
+    transform: translate(0, 0);
+  }
+  50% {
+    transform: translate(50px, 50px);
+  }
+  100% {
+    transform: translate(100px, 0);
+  }
+}
