@@ -66,7 +66,7 @@ div {
 }
 
 .sample2 {
-  animation: scale-and-color 4s linear
+  animation: scale-and-color 4s linear 0s infinite alternate;
 }
 
 @keyframes scale-and-color {
