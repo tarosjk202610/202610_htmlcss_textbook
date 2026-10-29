@@ -33,3 +33,6 @@ div {
   border-radius: 50%;
 }
 
+.scale {
+  transition: transform 0.5s ease-in-out 1s;
+}
