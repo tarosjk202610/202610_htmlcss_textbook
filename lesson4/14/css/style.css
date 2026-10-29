@@ -65,6 +65,9 @@ div {
   }
 }
 
+.sample2 {
+  animation: scale-and-color 4s linear
+}
 
 @keyframes scale-and-color {
   0% {
