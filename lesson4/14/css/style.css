@@ -29,3 +29,7 @@ div {
   transition-delay: 0s;
   */
 }
+.circle:hover {
+  border-radius: 50%;
+}
+
