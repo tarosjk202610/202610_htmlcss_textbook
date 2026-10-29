@@ -12,5 +12,5 @@ div {
 
 .width {
   /* trs 0.5s === 500ms*/
-  transition: width 0.5s ease-out;
+  transition: width 0.5s ease-out 0s;
 }
