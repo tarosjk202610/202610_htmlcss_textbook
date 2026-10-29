@@ -50,3 +50,12 @@ textarea {
 .form-submit {
   text-align: center;
 }
+
+@media screen and (max-width:768px) {
+  form {
+    padding: 20px 0;
+  }
+  dl {
+    width: 90%;
+  }
+}
