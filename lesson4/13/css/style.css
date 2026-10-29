@@ -96,3 +96,9 @@ select {
 .label-radio {
   margin-right: 2em;
 }
+
+input[type="radio"] {
+  width: 16px;
+  height: 16px;
+  margin-right: 4px;
+}
