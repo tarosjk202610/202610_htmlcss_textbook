@@ -51,6 +51,7 @@ div {
   animation-iteration-count: 3; 繰り返し回数
   animation-direction: normal; 再生方法
   animation-fill-mode: both; アニメーション開始前、終了後のスタイルの適用
+  animation-play-state: paused; アニメーションの再生状態
   */
 }
 
