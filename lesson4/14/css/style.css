@@ -42,7 +42,7 @@ div {
 }
 
 .sample1 {
-  animation: zigzag 2s ease 0s 3 normal both;
+  animation: zigzag 2s ease 0s 3 normal both paused;
   /* 
   animation-name: zigzag; アニメーション名
   animation-duration: 2s; 時間
