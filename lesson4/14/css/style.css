@@ -43,6 +43,14 @@ div {
 
 .sample1 {
   animation: zigzag 2s ease 0s 3 normal;
+  /* 
+  animation-name: zigzag; アニメーション名
+  animation-duration: 2s; 時間
+  animation-timing-function: ease; イージング
+  animation-delay: 0s; 遅延時間
+  animation-iteration-count: 3; 繰り返し回数
+  animation-direction: normal; 再生方法
+  */
 }
 
 @keyframes zigzag {
