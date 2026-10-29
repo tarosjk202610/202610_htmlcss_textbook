@@ -27,4 +27,13 @@ dl {
 .form-item {
   display: flex;
   justify-content: center;
+  margin-bottom: 40px;
+}
+
+dt {
+  width: 200px;
+}
+
+dd {
+  width: 300px;
 }
