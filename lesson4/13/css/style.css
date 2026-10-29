@@ -23,3 +23,7 @@ dl {
   margin: 0 auto;
   width: 500px;
 }
+
+.form-item {
+  display: flex;
+}
