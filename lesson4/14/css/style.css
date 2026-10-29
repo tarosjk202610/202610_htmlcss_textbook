@@ -64,3 +64,16 @@ div {
     transform: translate(100px, 0);
   }
 }
+
+
+@keyframes scale-and-color {
+  0% {
+    background: #ad4444;
+    transform: scale(1);
+  }
+  50% {
+    background: #3946ad;
+    transform: scale(1.5);
+  }
+
+}
