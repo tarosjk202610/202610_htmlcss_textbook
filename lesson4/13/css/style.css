@@ -58,4 +58,7 @@ textarea {
   dl {
     width: 90%;
   }
+  .form-item {
+    display: block;
+  }
 }
