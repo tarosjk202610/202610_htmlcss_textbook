@@ -79,3 +79,16 @@ dt::before {
   color: #1b9aaa;
   padding-right: 6px;
 }
+
+input[type="text"],
+input[type="email"],
+select,
+textarea {
+  border: 1px solid #ccc;
+  background: #fff;
+  padding: 0.3em;
+}
+
+select {
+  height: 2em;
+}
