@@ -42,7 +42,7 @@ div {
 }
 
 .sample1 {
-  animation: zigzag 2s;
+  animation: zigzag 2s ease 0s 3 normal;
 }
 
 @keyframes zigzag {
