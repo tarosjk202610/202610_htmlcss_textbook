@@ -61,4 +61,11 @@ textarea {
   .form-item {
     display: block;
   }
+  dt {
+    width: 100%;
+  }
+  dd {
+    width: 100%;
+    margin: 0;
+  }
 }
