@@ -83,3 +83,8 @@ div {
     transform: scale(1);
   }
 }
+
+img {
+  width: 100px;
+  margin-right: 2em;
+}
