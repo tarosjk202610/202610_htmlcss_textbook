@@ -106,6 +106,10 @@ img {
   }
 }
 
+.sample4 {
+  animation: heart .8s ease 0s infinite normal;
+}
+
 @keyframes heart {
   0% {
     transform: scale(1);
