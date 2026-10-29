@@ -36,3 +36,7 @@ div {
 .scale {
   transition: transform 0.5s ease-in-out 1s;
 }
+.scale:hover {
+  /* 倍率を指定する */
+  transform: scale(1.5);
+}
