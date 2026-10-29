@@ -90,6 +90,10 @@ img {
 }
 
 
+.sample3 {
+  animation: loading 1s linear 0s infinite;
+}
+
 @keyframes loading {
   0% {
     transform: rotate(0deg);
