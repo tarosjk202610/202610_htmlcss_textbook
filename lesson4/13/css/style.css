@@ -92,3 +92,7 @@ textarea {
 select {
   height: 2em;
 }
+
+.label-radio {
+  margin-right: 2em;
+}
