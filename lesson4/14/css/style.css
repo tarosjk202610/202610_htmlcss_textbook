@@ -19,3 +19,7 @@ div {
   /* transition: width 2s ease-out 0s; */
   width: 400px;
 }
+
+.circle {
+  transition: border-radius 0.2s;
+}
