@@ -26,4 +26,5 @@ dl {
 
 .form-item {
   display: flex;
+  justify-content: center;
 }
