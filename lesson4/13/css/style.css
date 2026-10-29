@@ -124,3 +124,12 @@ input[type="submit"] {
     background: #147581;
   }
 }
+
+@media screen and (max-width:768px) {
+  dt {
+    margin-bottom: 10px;
+  }
+  input[type="submit"] {
+    padding: 1em;
+  }
+}
