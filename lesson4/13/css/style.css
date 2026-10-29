@@ -73,3 +73,9 @@ textarea {
 dt,dd,select,input,textarea {
   color: #666;
 }
+
+dt::before {
+  content: '◆';
+  color: #1b9aaa;
+  padding-right: 6px;
+}
