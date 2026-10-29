@@ -41,6 +41,10 @@ div {
   transform: scale(1.5);
 }
 
+.sample1 {
+  animation: zigzag 2s;
+}
+
 @keyframes zigzag {
   0% {
     transform: translate(0, 0);
