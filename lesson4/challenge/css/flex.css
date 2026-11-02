@@ -15,4 +15,8 @@
   .card {
     flex-direction: row;
   }
+
+  .card__item {
+    max-width: 360px;
+  }
 }
