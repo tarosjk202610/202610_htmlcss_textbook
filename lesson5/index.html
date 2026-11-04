@@ -87,12 +87,19 @@
         <p>下記のフォームに必要事項を入力し、「申し込む」ボタンをクリックしてください。お申し込み後、担当者より確認のご連絡を差し上げます。</p>
 
         <form action="program.php" method="post">
-          氏名
-          メールアドレス
-          アレルギーはありますか
-          はい
-          いいえ
-          申し込む
+          <dl>
+            <dt><label for="user-name">氏名</label></dt>
+            <dd>
+              <input type="text" name="user-name" id="user-name">
+            </dd>
+            <dt>メールアドレス</dt>
+            <dd></dd>
+            <dt>アレルギーはありますか</dt>
+            <dd></dd>
+            はい
+            いいえ
+            申し込む
+          </dl>
         </form>
       </div>
     </section>
