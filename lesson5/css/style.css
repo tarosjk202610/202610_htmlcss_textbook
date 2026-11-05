@@ -63,3 +63,11 @@ th,td {
   padding: 1em;
   border: 1px solid #3d5a6d;
 }
+
+th {
+  background-color: #687c9f;
+}
+
+td {
+  color: #222;
+}
