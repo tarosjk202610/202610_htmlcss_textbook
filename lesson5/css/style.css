@@ -71,3 +71,9 @@ th {
 td {
   color: #222;
 }
+
+/* フォーム */
+form {
+  width: 80%;
+  margin: 0 auto;
+}
