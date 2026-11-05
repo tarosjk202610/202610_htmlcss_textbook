@@ -104,3 +104,9 @@ input[type="radio"] {
   margin-right: 4px;
   margin-left: 24px;
 }
+
+button[type="submit"] {
+  display: block;
+  width: 70%;
+  padding: 20px;
+}
