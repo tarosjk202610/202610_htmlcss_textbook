@@ -11,5 +11,13 @@ body {
   font-size: 16px;
   /* 400 === normal */
   font-weight: 400;
-
+  line-height: 1.5;
+  color: #fff;
 }
+
+img {
+  /* 下余白対策(baseline乗っけなくする) */
+  display: block;
+}
+
+/* ヘッダー・メインビジュアル */
