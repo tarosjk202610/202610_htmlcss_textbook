@@ -115,3 +115,8 @@ button[type="submit"] {
   color: #fff;
   background-color: #ff8124;
 }
+
+/* プロモーション */
+.promotion img {
+  width: 100%;
+}
