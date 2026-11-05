@@ -91,3 +91,16 @@ form dd {
   margin-bottom: 40px;
   margin-left: 0;
 }
+
+input {
+  width: 100%;
+  padding: 0.5em;
+  font-size: 1.1em;
+  border: none;
+}
+
+input[type="radio"] {
+  width: 1em;
+  margin-right: 4px;
+  margin-left: 24px;
+}
