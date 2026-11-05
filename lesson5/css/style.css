@@ -77,3 +77,8 @@ form {
   width: 80%;
   margin: 0 auto;
 }
+
+form dt {
+  margin-bottom: 20px;
+}
+
