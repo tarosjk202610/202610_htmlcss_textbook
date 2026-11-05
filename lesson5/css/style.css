@@ -30,3 +30,14 @@ header img {
   width: 100%;
 }
 
+/* セクション共通 */
+section {
+  width: 100%;
+  padding: 40px 0 60px;
+}
+
+/* 各セクション */
+section:nth-of-type(1) {}
+section:nth-of-type(2) {}
+section:nth-of-type(3) {}
+section:nth-of-type(4) {}
