@@ -46,4 +46,5 @@ h3 {
 .lead {
   margin: 0 32px;
   font-size: 1.6rem;
+  text-align: justify;
 }
