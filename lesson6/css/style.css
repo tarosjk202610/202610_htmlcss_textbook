@@ -102,4 +102,5 @@ h3 {
   position: relative;
   width: 16px;
   height: 16px;
+  background: url(../img/arrow.png) no-repeat center center;
 }
