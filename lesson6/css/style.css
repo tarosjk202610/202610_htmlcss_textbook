@@ -87,4 +87,6 @@ h3 {
 
 .book-more a {
   display: inline-block;
+  padding: 8px 40px;
+  border: 1px solid #333;
 }
