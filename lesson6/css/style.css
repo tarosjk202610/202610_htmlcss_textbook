@@ -48,3 +48,10 @@ h3 {
   font-size: 1.6rem;
   text-align: justify;
 }
+
+/* 本書の特長 */
+.feature h2 {
+  width: 20rem;
+  margin: 0 auto 24px;
+  padding: 8px;
+}
