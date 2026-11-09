@@ -37,3 +37,8 @@ h3 {
   font-size: 1.8rem;
   font-weight: bold;
 }
+
+/* はじめに */
+.introduction {
+  margin-bottom: 40px;
+}
