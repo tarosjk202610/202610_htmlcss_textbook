@@ -104,5 +104,6 @@ h3 {
   height: 16px;
   background: url(../img/arrow.png) no-repeat center center / cover;
   /* background-size: cover; */
-  
+  top: 2px;
+  left: 8px;
 }
