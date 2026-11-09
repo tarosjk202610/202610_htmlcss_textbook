@@ -58,3 +58,12 @@ h3 {
   color: #fff;
   background-color: #f60;
 }
+
+.feature {
+  margin-bottom: 40px;
+}
+
+.feature_01,
+.feature_02 {
+  margin: 0 32px 24px;
+}
