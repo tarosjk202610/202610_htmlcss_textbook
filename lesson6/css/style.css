@@ -95,3 +95,11 @@ h3 {
   background-color: #fff;
   text-decoration: none;
 }
+
+.book-more a::after {
+  content: '';
+  display: inline-block;
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
