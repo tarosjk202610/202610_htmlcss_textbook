@@ -22,3 +22,18 @@ h1 img {
 header .mainImg_pc {
   display: none;
 }
+
+/* 見出し関連のスタイル調整 */
+h2 {
+  margin-bottom: 24px;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+h3 {
+  margin-bottom: 16px;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
