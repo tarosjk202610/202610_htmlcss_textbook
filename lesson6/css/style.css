@@ -54,4 +54,7 @@ h3 {
   width: 20rem;
   margin: 0 auto 24px;
   padding: 8px;
+  border-radius: 8px;
+  color: #fff;
+  background-color: #f60;
 }
