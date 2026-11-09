@@ -80,3 +80,11 @@ h3 {
   font-size: 1.6rem;
   text-align: justify;
 }
+
+.book-more {
+  text-align: center;
+}
+
+.book-more a {
+  display: inline-block;
+}
