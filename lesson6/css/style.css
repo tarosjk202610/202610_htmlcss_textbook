@@ -75,3 +75,8 @@ h3 {
 .feature_img img {
   max-width: 100%;
 }
+
+.feature_text {
+  font-size: 1.6rem;
+  text-align: justify;
+}
