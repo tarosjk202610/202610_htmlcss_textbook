@@ -42,3 +42,8 @@ h3 {
 .introduction {
   margin-bottom: 40px;
 }
+
+.lead {
+  margin: 0 32px;
+  font-size: 1.6rem;
+}
