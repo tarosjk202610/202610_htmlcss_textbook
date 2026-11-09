@@ -67,3 +67,11 @@ h3 {
 .feature_02 {
   margin: 0 32px 24px;
 }
+
+.feature_img {
+  margin-bottom: 16px;
+}
+
+.feature_img img {
+  max-width: 100%;
+}
