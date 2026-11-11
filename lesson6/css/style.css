@@ -154,3 +154,9 @@ h3 {
   padding-bottom: 4px;
   border-bottom: 1px solid #000;
 }
+
+.author dl dd {
+  margin-bottom: 24px;
+  font-size: 1.6rem;
+  text-align: justify;
+}
