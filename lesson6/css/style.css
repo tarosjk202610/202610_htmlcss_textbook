@@ -146,3 +146,8 @@ h3 {
 .author dl {
   margin: 0 32px;
 }
+
+.author dl dt {
+  font-weight: bold;
+  font-size: 1.6rem;
+}
