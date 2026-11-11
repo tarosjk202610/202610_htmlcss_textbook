@@ -165,4 +165,5 @@ h3 {
 .book-info {
   background: #fdd url(../img/footer_bg.jpg) no-repeat center center / cover;
   display: flex;
+  justify-content: center;
 }
