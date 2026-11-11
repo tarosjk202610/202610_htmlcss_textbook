@@ -163,5 +163,5 @@ h3 {
 
 /* フッター */
 .book-info {
-  background: url(../img/footer_bg.jpg);
+  background: #fdd url(../img/footer_bg.jpg) no-repeat center center / cover;
 }
