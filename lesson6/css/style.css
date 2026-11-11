@@ -109,3 +109,11 @@ h3 {
   left: 8px;
 }
 
+
+
+/* 章構成 */
+.contents-list {
+  margin-bottom: 40px;
+  background: #fdd url(../img/contents-list_bg.jpg) no-repeat center center / cover;
+  padding: 24px 0;
+}
