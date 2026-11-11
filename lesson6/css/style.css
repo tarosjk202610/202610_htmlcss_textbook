@@ -107,3 +107,13 @@ h3 {
   top: 2px;
   left: 8px;
 }
+
+.feature {
+  h2 {
+    color: orange;
+  }
+
+  .section1 {
+    
+  }
+}
