@@ -49,9 +49,10 @@ h3 {
   text-align: justify;
 }
 
-/* 本書の特長 */
+
 .feature h2,
-.contents-list h2 {
+.contents-list h2,
+.author h2 {
   width: 20rem;
   margin: 0 auto 24px;
   padding: 8px;
@@ -60,6 +61,7 @@ h3 {
   background-color: #f60;
 }
 
+/* 本書の特長 */
 .feature {
   margin-bottom: 40px;
 }
