@@ -137,3 +137,12 @@ h3 {
 .contents-list ul li:last-child{
   border-bottom: none;
 }
+
+/* 著者 */
+.author {
+  margin-bottom: 40px;
+}
+
+.author dl {
+  margin: 0 32px;
+}
