@@ -164,4 +164,5 @@ h3 {
 /* フッター */
 .book-info {
   background: #fdd url(../img/footer_bg.jpg) no-repeat center center / cover;
+  display: flex;
 }
