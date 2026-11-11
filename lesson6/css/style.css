@@ -150,4 +150,7 @@ h3 {
 .author dl dt {
   font-weight: bold;
   font-size: 1.6rem;
+  margin-bottom: 8px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #000;
 }
