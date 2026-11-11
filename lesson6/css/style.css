@@ -163,6 +163,7 @@ h3 {
 
 /* フッター */
 .book-info {
+  height: 60vh;
   background: #fdd url(../img/footer_bg.jpg) no-repeat center center / cover;
   display: flex;
   justify-content: center;
