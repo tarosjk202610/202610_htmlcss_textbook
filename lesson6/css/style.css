@@ -131,3 +131,7 @@ h3 {
   border-bottom: 1px dotted #000;
   padding: 8px 0;
 }
+
+.contents-list ul li:last-child{
+  border-bottom: none;
+}
